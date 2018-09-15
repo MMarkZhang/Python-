@@ -1,5 +1,5 @@
 **无监督学习**
-- [Apriori算法](#https://github.com/MMarkZhang/Python-/blob/master/PDF/ML%E7%AE%97%E6%B3%95%E6%95%B4%E7%90%86.md#apriori%E7%AE%97%E6%B3%95)
+- Apriori算法
 - K-Means（K平均值算法）
 
 **监督学习**

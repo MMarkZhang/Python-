@@ -1,4 +1,4 @@
-````
+```Python
 class MyHash(object):
 
     def __init__(self, length=10):
@@ -50,4 +50,5 @@ myhash.insert(1, 3)
 print myhash.get(2)
 print myhash.get(1)
 print myhash[1]
-````
+
+```

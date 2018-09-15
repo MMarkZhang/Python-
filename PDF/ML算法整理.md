@@ -1,12 +1,12 @@
 **无监督学习**
 - [Apriori算法](#apriori算法)
-- K-Means（K平均值算法）
+- [K-Means（K平均值算法）](#k-means----k平均值算法)
 
 **监督学习**
-- K-NN（K临近算法）
-- Naive Bayesian Classifier(朴素贝叶斯算法)
-- 决策树算法
-- Logistic Regression逻辑回归
+- [K-NN（K临近算法）](#k-nn---k临近算法)
+- [Naive Bayesian Classifier(朴素贝叶斯算法)](#naive-bayesian-classifier朴素贝叶斯算法)
+- [决策树算法](#决策树算法)
+- [Logistic Regression逻辑回归](#logistic-regression逻辑回归)
  
 # 无监督学习
 # **Apriori算法**

@@ -1,0 +1,9 @@
+print('hello world')
+import sys
+for i in range (100):
+    print ('what is your name')
+    name = input()
+    i = i + 1
+    if name == 'none':
+        print('the number of students is:' + str(i))
+        sys.exit()

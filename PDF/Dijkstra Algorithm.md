@@ -1,6 +1,11 @@
 
+#### 实例和示范代码
+
+**已知图例：**
+
 ![以此图为例](https://78.media.tumblr.com/6659ac55d031cdadf33b788977354a3c/tumblr_pfljnmZPVH1vdexuso1_1280.png)
-代码：
+
+**代码：**
 
 ```
 =float('inf')
@@ -44,3 +49,12 @@ if __name__=='__main__':
 	print(dis)
 	print(pre)
 ```
+输出：
+
+```
+[0, 5, 3, 6, 7, 9]
+[0, 2, 0, 2, 2, 3]
+```
+**得到的最短路径：**
+
+![粗线为路径](https://78.media.tumblr.com/2576215b57f2cb948f6de9f505b6f1fc/tumblr_pfok3hVEI81vdexuso1_640.png)

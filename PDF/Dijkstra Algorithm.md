@@ -10,7 +10,12 @@ Dijkstra算法采用的是一种**贪心的策略**，声明一个数组dis来�
 https://blog.csdn.net/qq_35644234/article/details/60870719
 
 ### 上述例子的图片表示
-
+![路径图](https://66.media.tumblr.com/354c79e28e80291d39e85b4b39e774b9/tumblr_pfs52stuTA1vdexuso1_500.png)
+![初始化](https://78.media.tumblr.com/881a9456c06fac376e0e4f765395e4fe/tumblr_pfs52stuTA1vdexuso2_1280.png)
+![1](https://78.media.tumblr.com/c17454174ce79a50492930fbac11ceb2/tumblr_pfs52stuTA1vdexuso3_640.png)
+![2](https://78.media.tumblr.com/d6310dea0db67d413f4bf88c11054208/tumblr_pfs52stuTA1vdexuso4_640.png)
+![3](https://78.media.tumblr.com/f8e6f2ad93f53461692490d4adfd2c59/tumblr_pfs52stuTA1vdexuso5_640.png)
+![4](https://78.media.tumblr.com/791c56a2337e3a26b0dde26d07ba054c/tumblr_pfs52stuTA1vdexuso6_1280.png)
 
 ### 实例和示范代码
 

@@ -26,7 +26,7 @@ https://blog.csdn.net/qq_35644234/article/details/60870719
 **代码：**
 
 ```
-=float('inf')
+_ = float('inf')
  
 def dijkstra(graph,n):
 	dis=[0]*n
